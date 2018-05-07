@@ -1445,7 +1445,7 @@ blockquote p {
 
 .coll:hover {
     background-color: #ccc;
-    font-style: italic;
+	font-style: italic;
 }
 
 .panel {
