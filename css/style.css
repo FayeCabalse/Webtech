@@ -1450,7 +1450,7 @@ blockquote p {
 
 .panel {
     padding: 0 18px;
-    background-color: white;
+    background-color: #eee;
     display: none;
     overflow: hidden;
 }
