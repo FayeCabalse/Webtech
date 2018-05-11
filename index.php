@@ -1,9 +1,12 @@
+<?php
+  session_start(); 
+?>
 <?php include 'inc/header.php'; ?>
 
     <div class="mb-5 element-animate">
-              <h1>Learn From Doing</h1>
+              <h1>Keep Learning from Web Systems and Technologies</h1>
               <p class="lead">Learn something new every day with Web Systems and Technologies.</p>
-              <p><a href="index.php" class="btn btn-primary">Start Learning</a></p>
+              <p><a href="finals_lesson.php" class="btn btn-primary">Start Learning</a></p>
             </div>
           </div>
         </div>
