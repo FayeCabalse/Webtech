@@ -19,6 +19,7 @@
             <div class="mb-5 element-animate">
               <h1>FINALS</h1>
               <p class="lead">Learn all about the topics from the finals term.</p>
+              <p class="lead">Enjoy Learning!</p>
             </div>           
           </div>
         </div>
